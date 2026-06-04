@@ -1,0 +1,2267 @@
+{
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineClearCache"
+              },
+              {
+                "direction": "Top",
+                "type": "TimelineTerminateTimeline"
+              },
+              {
+                "direction": "Bottom",
+                "type": "TimelineTerminateTimeline"
+              },
+              {
+                "entries": [
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1905477529013813251/RST2MxqV_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Thu Jul 14 02:13:59 +0000 2022",
+                              "name": "Wes Roth",
+                              "screen_name": "WesRoth"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxNTQ3NDAzOTA2OTU0NTYzNTg1",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "FOLLOWS YOU.    Artificial Intelligence, Automation & Optimism. Everything I say is 100% serious...",
+                              "entities": {
+                                "description": {},
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "youtube.com/@wesroth",
+                                      "expanded_url": "https://youtube.com/@wesroth",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/WnKWlIlLkE"
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 19341,
+                              "follow_request_sent": false,
+                              "followers_count": 35477,
+                              "friends_count": 822,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 703,
+                              "media_count": 7505,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 35477,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [
+                                "2056780607187820580"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547403906954563585/1758421858",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 14928,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "https://t.co/WnKWlIlLkE",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "San Diego, CA"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": "FOLLOWS YOU.    Artificial Intelligence, Automation & Optimism. Everything I say is 100% serious..."
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1547403906954563585",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1547403906954563585",
+                    "sortIndex": "2057507794797461504"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+                            },
+                            "core": {
+                              "created_at": "Thu May 21 16:47:38 +0000 2026",
+                              "name": "Jorge Dominguez",
+                              "screen_name": "JorgeDominkgfp"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoyMDU3NTAzMzA4MzQ5MTY1NTY4",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": true,
+                              "description": "",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "follow_request_sent": false,
+                              "followers_count": 1,
+                              "friends_count": 88,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "media_count": 0,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 1,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 0,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": ""
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": ""
+                            },
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "2057503308349165568",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-2057503308349165568",
+                    "sortIndex": "2057507794797461503"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1863137373208346624/BNSPKoq2_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Sat Nov 30 22:26:06 +0000 2024",
+                              "name": "Uzi",
+                              "screen_name": "UziIkobi"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxODYyOTg2MzUzOTY2ODI1NDcy",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Just a tech and crypto enthusiast guy.\nA web developer || community manager & web3 Jobber, Also open for collabs.",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1046,
+                              "follow_request_sent": false,
+                              "followers_count": 281,
+                              "friends_count": 1313,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "media_count": 49,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 281,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862986353966825472/1776592481",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 911,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": ""
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 920,
+                                  "name": "Other"
+                                }
+                              ],
+                              "professional_type": "Creator",
+                              "rest_id": "2029525617138647232"
+                            },
+                            "profile_bio": {
+                              "description": "Just a tech and crypto enthusiast guy.\nA web developer || community manager & web3 Jobber, Also open for collabs."
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1862986353966825472",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {
+                              "is_enabled": true
+                            },
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1862986353966825472",
+                    "sortIndex": "2057507794797461502"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1789328065404772353/MrukDbd0_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Tue Dec 04 12:39:53 +0000 2018",
+                              "name": "BraHim Moudoud \ud83d\udfe6 | .base.eth | .ink",
+                              "screen_name": "Brahim_Moudoud"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxMDY5OTM0MzE1MzEwNjQxMTUy",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Welcome \ud83d\ude01,\n.\n.\n.\nI'm Graphic Designer - Web3 Developer.\n.\n.\nAnd crypto project enthusiast, I'm active in testnet of some newly released projects.",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 7983,
+                              "follow_request_sent": false,
+                              "followers_count": 214,
+                              "friends_count": 1935,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 4,
+                              "media_count": 103,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 214,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [
+                                "1991062612189036990"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069934315310641152/1702362118",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 6442,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Morocco"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 1025,
+                                  "name": "Graphic Designer"
+                                }
+                              ],
+                              "professional_type": "Creator",
+                              "rest_id": "1593137134923386880"
+                            },
+                            "profile_bio": {
+                              "description": "Welcome \ud83d\ude01,\n.\n.\n.\nI'm Graphic Designer - Web3 Developer.\n.\n.\nAnd crypto project enthusiast, I'm active in testnet of some newly released projects."
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1069934315310641152",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1069934315310641152",
+                    "sortIndex": "2057507794797461501"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/2029903944282173440/1Ggq7_BU_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Mon Oct 29 16:23:51 +0000 2007",
+                              "name": "John von Seggern",
+                              "screen_name": "johnvon23"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjo5Nzc4ODgy",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Founder & CEO at Futureproof Music School | Building the first AI-native music school | Pre-seed",
+                              "entities": {
+                                "description": {},
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "futureproofmusicschool.com",
+                                      "expanded_url": "https://futureproofmusicschool.com",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/lEWOoS7Ga1"
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 4112,
+                              "follow_request_sent": false,
+                              "followers_count": 734,
+                              "friends_count": 3324,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 34,
+                              "media_count": 184,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 734,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/9778882/1757011448",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 3549,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "https://t.co/lEWOoS7Ga1",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Los Angeles, CA"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": "Founder & CEO at Futureproof Music School | Building the first AI-native music school | Pre-seed"
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "9778882",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-9778882",
+                    "sortIndex": "2057507794797461500"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+                            },
+                            "core": {
+                              "created_at": "Sat Oct 15 15:48:21 +0000 2022",
+                              "name": "Stephen Hunter",
+                              "screen_name": "Stephen94148493"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxNTgxMzEwOTQ0NDAzMTk3OTU5",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": true,
+                              "description": "",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 12,
+                              "follow_request_sent": false,
+                              "followers_count": 23,
+                              "friends_count": 103,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "media_count": 3,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 23,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 62,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Rhode Island, USA"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": ""
+                            },
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1581310944403197959",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1581310944403197959",
+                    "sortIndex": "2057507794797461499"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1775852696349650944/zrXQMMYK_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Thu Apr 04 11:47:31 +0000 2024",
+                              "name": "Rotem",
+                              "screen_name": "rwt24311"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxNzc1ODUyNjE4NjM3NTk4NzIw",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 760,
+                              "follow_request_sent": false,
+                              "followers_count": 6,
+                              "friends_count": 56,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "media_count": 0,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 6,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 46,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": ""
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": ""
+                            },
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1775852618637598720",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1775852618637598720",
+                    "sortIndex": "2057507794797461498"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1039902912921718784/55OBINH9_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Sun Jul 12 11:46:46 +0000 2009",
+                              "name": "GL",
+                              "screen_name": "xcallyou"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjo1NjA3NTgzNg==",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "biu\u2026",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 4,
+                              "follow_request_sent": false,
+                              "followers_count": 6,
+                              "friends_count": 335,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 1,
+                              "media_count": 0,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 6,
+                              "notifications": false,
+                              "possibly_sensitive": true,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/56075836/1536767436",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 40,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Singapore"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": "biu\u2026"
+                            },
+                            "profile_description_language": "qst",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "56075836",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {
+                              "is_enabled": true
+                            },
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-56075836",
+                    "sortIndex": "2057507794797461497"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/2046668542180003840/bUNWBelp_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Sun Nov 27 12:51:42 +0000 2011",
+                              "name": "go-got",
+                              "screen_name": "sgot100"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjo0MjI1ODkwODE=",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "199x #bts\u0e2a\u0e32\u0e22\u0e2b\u0e22\u0e38\u0e14 #\u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48 #\u0e40\u0e23\u0e35\u0e22\u0e25\u0e0a\u0e32\u0e22 #fwb \u0e17\u0e35\u0e48\u0e04\u0e38\u0e22\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07 \u0e17\u0e31\u0e49\u0e07\u0e0a\u0e32\u0e1a\u0e39\u0e41\u0e25\u0e30\u0e1b\u0e34\u0e49\u0e07\u0e22\u0e48\u0e32\u0e07DM \u0e04\u0e38\u0e22\u0e01\u0e31\u0e19\u0e19\u0e49\u0e32 \u0e0a\u0e32\u0e22\u0e41\u0e17\u0e49 100%",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 5528,
+                              "follow_request_sent": false,
+                              "followers_count": 97,
+                              "friends_count": 150,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 1,
+                              "media_count": 10,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 97,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [
+                                "1273329905422364673"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/422589081/1779377910",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 497,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": "199x #bts\u0e2a\u0e32\u0e22\u0e2b\u0e22\u0e38\u0e14 #\u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48 #\u0e40\u0e23\u0e35\u0e22\u0e25\u0e0a\u0e32\u0e22 #fwb \u0e17\u0e35\u0e48\u0e04\u0e38\u0e22\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07 \u0e17\u0e31\u0e49\u0e07\u0e0a\u0e32\u0e1a\u0e39\u0e41\u0e25\u0e30\u0e1b\u0e34\u0e49\u0e07\u0e22\u0e48\u0e32\u0e07DM \u0e04\u0e38\u0e22\u0e01\u0e31\u0e19\u0e19\u0e49\u0e32 \u0e0a\u0e32\u0e22\u0e41\u0e17\u0e49 100%"
+                            },
+                            "profile_description_language": "th",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "422589081",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-422589081",
+                    "sortIndex": "2057507794797461496"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/2054453134488154112/st5srvFy_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Sat Jul 28 10:22:35 +0000 2012",
+                              "name": "\u30db\u30c3\u30ad\u30fc",
+                              "screen_name": "n_laststory"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjo3MjE5MjQ3MjI=",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "2030",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 4111,
+                              "follow_request_sent": false,
+                              "followers_count": 299,
+                              "friends_count": 221,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 5,
+                              "media_count": 72,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 299,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [
+                                "2056049671471350032"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/721924722/1776801688",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 7167,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": ""
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 192,
+                                  "name": "Financial Services"
+                                }
+                              ],
+                              "professional_type": "Creator",
+                              "rest_id": "2046678733998686714"
+                            },
+                            "profile_bio": {
+                              "description": "2030"
+                            },
+                            "profile_description_language": "qst",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "721924722",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-721924722",
+                    "sortIndex": "2057507794797461495"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1852436150293581824/bYioH40J_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Fri Nov 01 17:48:10 +0000 2024",
+                              "name": "Naledi Kekana",
+                              "screen_name": "naledicodes"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxODUyNDA3MjEzODU3NDIzMzYw",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Creative. Futurist. Advocate\n\nBuilding and learning in public",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 238,
+                              "follow_request_sent": false,
+                              "followers_count": 14,
+                              "friends_count": 125,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "media_count": 117,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 14,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 643,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": ""
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 713,
+                                  "name": "Science & Technology"
+                                }
+                              ],
+                              "professional_type": "Business",
+                              "rest_id": "1917943681031491835"
+                            },
+                            "profile_bio": {
+                              "description": "Creative. Futurist. Advocate\n\nBuilding and learning in public"
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1852407213857423360",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1852407213857423360",
+                    "sortIndex": "2057507794797461494"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1971357507684552704/IIzeWprP_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Fri Jan 08 03:47:25 +0000 2021",
+                              "name": "rafaelpdemelo \u2192 didaska",
+                              "screen_name": "rafaelpdemelo"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxMzQ3Mzg5MzMxODIwOTc0MDgx",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "eu sou 8 ou 80 e eu amo isso\nBuilding https://t.co/mDenY1uqD1",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "didaska.com.br",
+                                      "expanded_url": "http://didaska.com.br",
+                                      "indices": [
+                                        38,
+                                        61
+                                      ],
+                                      "url": "https://t.co/mDenY1uqD1"
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "keepo.io/rafaelpdemelo/",
+                                      "expanded_url": "https://keepo.io/rafaelpdemelo/",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/o3O5Jv6E92"
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 4447,
+                              "follow_request_sent": false,
+                              "followers_count": 114,
+                              "friends_count": 415,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "media_count": 26,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 114,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [
+                                "1944214349968499169"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347389331820974081/1754535687",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 537,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "https://t.co/o3O5Jv6E92",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Recife, Brasil"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [],
+                              "professional_type": "Creator",
+                              "rest_id": "1473101411152019456"
+                            },
+                            "profile_bio": {
+                              "description": "eu sou 8 ou 80 e eu amo isso\nBuilding https://t.co/mDenY1uqD1"
+                            },
+                            "profile_description_language": "pt",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1347389331820974081",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {
+                              "bitcoin_handle": "1LjocHDs9rMKVY5PLn98uaoPehhuASx4Jd",
+                              "is_enabled": true
+                            },
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1347389331820974081",
+                    "sortIndex": "2057507794797461493"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/2052016045033140224/s1m3PHCs_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Fri Feb 27 17:17:14 +0000 2009",
+                              "name": "MARNI MELROSE",
+                              "screen_name": "MarniMelrose"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoyMjE2MjY2Ng==",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Founder of @ClawSight. Helping you use AI agents for real execution on the Mac with voice, vision, action. Less chaos, get more done. Join my Skool. \ud83d\udc47\ud83c\udffb",
+                              "entities": {
+                                "description": {},
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "skool.com/obsidian-claw-\u2026",
+                                      "expanded_url": "https://www.skool.com/obsidian-claw-3461/about",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/GSXpdHlaWL"
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 36815,
+                              "follow_request_sent": false,
+                              "followers_count": 10103,
+                              "friends_count": 6098,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 365,
+                              "media_count": 4669,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 10103,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [
+                                "2055045210103787898"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/22162666/1777168982",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 39660,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "https://t.co/GSXpdHlaWL",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Agent Interface Engineer"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 958,
+                                  "name": "Entrepreneur"
+                                }
+                              ],
+                              "professional_type": "Creator",
+                              "rest_id": "1464671622640582658"
+                            },
+                            "profile_bio": {
+                              "description": "Founder of @ClawSight. Helping you use AI agents for real execution on the Mac with voice, vision, action. Less chaos, get more done. Join my Skool. \ud83d\udc47\ud83c\udffb"
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "22162666",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {
+                              "ethereum_handle": "0x0e77256a76Ff95eB7d7070219B55F2061E10C847",
+                              "is_enabled": true,
+                              "venmo_handle": "Marnimelrose"
+                            },
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-22162666",
+                    "sortIndex": "2057507794797461492"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1987738625937932288/DovaZw52_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Mon Jun 16 09:50:54 +0000 2025",
+                              "name": "\u8def\u65af",
+                              "screen_name": "myboyfriend0511"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxOTM0NTQ5MTIxNzU2Nzk4OTc2",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 577,
+                              "follow_request_sent": false,
+                              "followers_count": 106,
+                              "friends_count": 3311,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "media_count": 0,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 106,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 2,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Taiwan "
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "privacy": {
+                              "protected": true
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 15,
+                                  "name": "Entertainment & Recreation"
+                                }
+                              ],
+                              "professional_type": "Business",
+                              "rest_id": "2040749158009577705"
+                            },
+                            "profile_bio": {
+                              "description": ""
+                            },
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1934549121756798976",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {
+                              "is_enabled": false,
+                              "patreon_handle": ""
+                            },
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1934549121756798976",
+                    "sortIndex": "2057507794797461491"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1954951011598209026/wTl2Edce_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Tue Oct 15 16:53:35 +0000 2019",
+                              "name": "LL",
+                              "screen_name": "LNudt"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxMTg0MTUwMTgwODA5MDU2MjU2",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "\u4eba\u7684\u4efb\u4f55\u4e00\u4e2a\u51b3\u7b56\u90fd\u662f\u57fa\u4e8e\u4e0d\u5b8c\u6574\u4fe1\u606f\u4e0b\u7684\u76f8\u5bf9\u63a8\u7406/INTJ/talk is cheap show me PNL",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 25737,
+                              "follow_request_sent": false,
+                              "followers_count": 1933,
+                              "friends_count": 3583,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 30,
+                              "media_count": 290,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 1933,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184150180809056256/1606747794",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 5155,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Moon Original Settlement"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 713,
+                                  "name": "Science & Technology"
+                                }
+                              ],
+                              "professional_type": "Creator",
+                              "rest_id": "1515326964789178378"
+                            },
+                            "profile_bio": {
+                              "description": "\u4eba\u7684\u4efb\u4f55\u4e00\u4e2a\u51b3\u7b56\u90fd\u662f\u57fa\u4e8e\u4e0d\u5b8c\u6574\u4fe1\u606f\u4e0b\u7684\u76f8\u5bf9\u63a8\u7406/INTJ/talk is cheap show me PNL"
+                            },
+                            "profile_description_language": "zh",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1184150180809056256",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1184150180809056256",
+                    "sortIndex": "2057507794797461490"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/2057486344037797888/Cy6uvdY3_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Thu Dec 29 17:50:09 +0000 2011",
+                              "name": "Junior",
+                              "screen_name": "jr_olweb"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjo0NDk5NDYzMzI=",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Programador",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 435,
+                              "follow_request_sent": false,
+                              "followers_count": 752,
+                              "friends_count": 1387,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "media_count": 2,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 752,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [
+                                "1149032038516830208"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/449946332/1561207736",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 632,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "S\u00e3o Paulo, Brasil"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": "Programador"
+                            },
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "449946332",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-449946332",
+                    "sortIndex": "2057507794797461489"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/2055732025425108992/0wTpdXa-_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Mon Feb 28 12:18:50 +0000 2022",
+                              "name": "Bryan",
+                              "screen_name": "whysopepe"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxNDk4MjcxNDQ0MTMxNzE3MTI0",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "pre | @TrojanOnSolana",
+                              "entities": {
+                                "description": {},
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "t.me/whysopepec",
+                                      "expanded_url": "https://t.me/whysopepec",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/TAGItLZbEp"
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 6421,
+                              "follow_request_sent": false,
+                              "followers_count": 3174,
+                              "friends_count": 557,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 29,
+                              "media_count": 807,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 3174,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498271444131717124/1719237044",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 6179,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "https://t.co/TAGItLZbEp",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Singapore"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": "pre | @TrojanOnSolana"
+                            },
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1498271444131717124",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1498271444131717124",
+                    "sortIndex": "2057507794797461488"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1879426390602194944/o1KnmI8u_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Sun Mar 22 02:23:12 +0000 2009",
+                              "name": "ConceitoNews",
+                              "screen_name": "conceitonews1"
+                            },
+                            "dm_permissions": {
+                              "can_dm": false
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoyNTc2NjU4OQ==",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Not\u00edcias do Brasil e do mundo com diversidade narrativa. Tend\u00eancias, an\u00e1lises, interpreta\u00e7\u00f5es e entretenimento\ud83c\udf10\ud83d\udcca\ud83e\udd16\ud83d\udcda\ud83c\udf31\u26bd\ud83c\udfad \n\nParcerias: conceitonews1@gmail.com",
+                              "entities": {
+                                "description": {},
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "conceitonews.com",
+                                      "expanded_url": "http://www.conceitonews.com",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/9YfWJONIsW"
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 3092,
+                              "follow_request_sent": false,
+                              "followers_count": 2827,
+                              "friends_count": 4244,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 21,
+                              "media_count": 368,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 2827,
+                              "notifications": false,
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/25766589/1736925143",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 5475,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "https://t.co/9YfWJONIsW",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "Brasil"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 580,
+                                  "name": "Media & News Company"
+                                }
+                              ],
+                              "professional_type": "Business",
+                              "rest_id": "1879423886145593657"
+                            },
+                            "profile_bio": {
+                              "description": "Not\u00edcias do Brasil e do mundo com diversidade narrativa. Tend\u00eancias, an\u00e1lises, interpreta\u00e7\u00f5es e entretenimento\ud83c\udf10\ud83d\udcca\ud83e\udd16\ud83d\udcda\ud83c\udf31\u26bd\ud83c\udfad \n\nParcerias: conceitonews1@gmail.com"
+                            },
+                            "profile_description_language": "pt",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "25766589",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-25766589",
+                    "sortIndex": "2057507794797461487"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1648068220769689602/M4n8lmIQ_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Sun Jun 30 13:05:31 +0000 2013",
+                              "name": "StanleyRLeszewski",
+                              "screen_name": "StanLeszewski"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxNTU4MDQ2NDY3",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Everything is temporary. The only thing that matters in life is the time between birth and death. #makeyourownrules",
+                              "entities": {
+                                "description": {},
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "x.com/substancel7672\u2026",
+                                      "expanded_url": "https://x.com/substancel7672?s=21",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/KZgbJZV6iQ"
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 6212,
+                              "follow_request_sent": false,
+                              "followers_count": 2171,
+                              "friends_count": 7501,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 6,
+                              "media_count": 1733,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 2171,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [
+                                "1786986719809610186"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558046467/1695043943",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 9643,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "https://t.co/KZgbJZV6iQ",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": "AMERICA USA"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 1015,
+                                  "name": "Nonprofits & Activism"
+                                }
+                              ],
+                              "professional_type": "Creator",
+                              "rest_id": "1654101289528172544"
+                            },
+                            "profile_bio": {
+                              "description": "Everything is temporary. The only thing that matters in life is the time between birth and death. #makeyourownrules"
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "1558046467",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {
+                              "cash_app_handle": "$stanleyr2011",
+                              "is_enabled": true
+                            },
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-1558046467",
+                    "sortIndex": "2057507794797461486"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineItem",
+                      "clientEventInfo": {
+                        "component": "BlueVerifiedFollowersSgs",
+                        "element": "user"
+                      },
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "__typename": "TimelineUser",
+                        "itemType": "TimelineUser",
+                        "userDisplayType": "User",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1914356240236548096/xyRLWIIQ_normal.jpg"
+                            },
+                            "core": {
+                              "created_at": "Tue Sep 12 05:15:08 +0000 2017",
+                              "name": "PadrePlyo",
+                              "screen_name": "PadrePlyo"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjo5MDc0NzI2MjM4NDc2Njk3NjA=",
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "For we wrestle not against flesh and blood, but against principalities, against powers.. against spiritual wickedness in high places.",
+                              "entities": {
+                                "description": {}
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 84516,
+                              "follow_request_sent": false,
+                              "followers_count": 1371,
+                              "friends_count": 2471,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 7,
+                              "media_count": 1341,
+                              "needs_phone_verification": false,
+                              "normal_followers_count": 1371,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [
+                                "2037343891696050400"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/907472623847669760/1745253070",
+                              "profile_interstitial_type": "",
+                              "statuses_count": 32951,
+                              "time_zone": "",
+                              "translator_type": "none",
+                              "url": "",
+                              "utc_offset": 0,
+                              "want_retweets": false,
+                              "withheld_description": "",
+                              "withheld_scope": ""
+                            },
+                            "location": {
+                              "location": ""
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "privacy": {
+                              "protected": false
+                            },
+                            "professional": {
+                              "category": [
+                                {
+                                  "icon_name": "IconBriefcaseStroke",
+                                  "id": 1009,
+                                  "name": "Community"
+                                }
+                              ],
+                              "professional_type": "Creator",
+                              "rest_id": "1597455273266139136"
+                            },
+                            "profile_bio": {
+                              "description": "For we wrestle not against flesh and blood, but against principalities, against powers.. against spiritual wickedness in high places."
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Circle",
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "muting": false
+                            },
+                            "rest_id": "907472623847669760",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "verification": {
+                              "verified": false
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "entryId": "user-907472623847669760",
+                    "sortIndex": "2057507794797461485"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineCursor",
+                      "cursorType": "Bottom",
+                      "entryType": "TimelineTimelineCursor",
+                      "value": "1865811049580733583|2057507794797461482"
+                    },
+                    "entryId": "cursor-bottom-2057507794797461484",
+                    "sortIndex": "2057507794797461484"
+                  },
+                  {
+                    "content": {
+                      "__typename": "TimelineTimelineCursor",
+                      "cursorType": "Top",
+                      "entryType": "TimelineTimelineCursor",
+                      "value": "-1|2057507794797461505"
+                    },
+                    "entryId": "cursor-top-2057507794797461505",
+                    "sortIndex": "2057507794797461505"
+                  }
+                ],
+                "type": "TimelineAddEntries"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
